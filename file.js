@@ -10,9 +10,9 @@ function formvalidate()
     {
         if(gender())
         {
-            if(mailv(mail))
+            if(colegva(coleg))
             {
-                if(colegva(coleg))
+                if(mailv(mail))
                 {
                     if(tele(telep))
                     {
